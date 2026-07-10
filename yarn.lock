@@ -5,9 +5,9 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"@chocolatey-software/build-tools@npm:2.8.0":
-  version: 2.8.0
-  resolution: "@chocolatey-software/build-tools@npm:2.8.0"
+"@chocolatey-software/build-tools@npm:2.9.2":
+  version: 2.9.2
+  resolution: "@chocolatey-software/build-tools@npm:2.9.2"
   dependencies:
     "@eslint/js": "npm:^9.39.4"
     "@stylistic/eslint-plugin": "npm:^5.10.0"
@@ -22,7 +22,7 @@ __metadata:
     tsx: "npm:^4.21.0"
     typescript: "npm:^5.9.3"
     typescript-eslint: "npm:^8.59.1"
-  checksum: 10c0/fa36079155ff3840d0b87778f1ef5ee47a5adac8d919a2e13ab28eefed3a3eba32bcf1e6900f24b20257d73916c48639b549538198c44dbbf5ef27416b67f6c5
+  checksum: 10c0/f83b3cd3a09bd7d16bfe39cddf176aa9b41779d3c3299aa2638488053c96dc114346d6c672d0a87a6725575f13561ff369e0cf35dcfb8ff5c458bcc92e7fb962
   languageName: node
   linkType: hard
 
@@ -908,7 +908,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "copenhagen_theme@workspace:."
   dependencies:
-    "@chocolatey-software/build-tools": "npm:2.8.0"
+    "@chocolatey-software/build-tools": "npm:2.9.2"
     "@chocolatey-software/zendesk": "npm:2.9.0"
   languageName: unknown
   linkType: soft
